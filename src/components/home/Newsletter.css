@@ -1,0 +1,123 @@
+.newsletter-section {
+    background-color: var(--color-gold-primary);
+    /* Brand Gold */
+    padding: 60px 0;
+    position: relative;
+    overflow: hidden;
+    color: white;
+}
+
+.newsletter-shape {
+    position: absolute;
+    top: 0;
+    right: 15%;
+    width: 200px;
+    height: 100px;
+    background: linear-gradient(135deg, var(--color-white) 0%, var(--color-white) 50%, transparent 50%);
+    opacity: 0.9;
+    z-index: 1;
+}
+
+.newsletter-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+}
+
+.newsletter-content {
+    flex: 1;
+    max-width: 600px;
+}
+
+.newsletter-content h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-family: var(--font-heading);
+    letter-spacing: -0.5px;
+}
+
+.newsletter-content p {
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.5;
+    max-width: 500px;
+}
+
+.newsletter-form-wrapper {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.newsletter-form {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.newsletter-input {
+    flex: 1;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: var(--font-sans);
+}
+
+.newsletter-submit {
+    background-color: var(--color-orange);
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+.newsletter-submit:hover {
+    background-color: var(--color-orange-hover);
+    color: white;
+}
+
+@media (max-width: 991px) {
+    .newsletter-container {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .newsletter-form-wrapper {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .newsletter-form {
+        max-width: 100%;
+    }
+
+    .newsletter-content {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .newsletter-form {
+        flex-direction: column;
+    }
+
+    .newsletter-submit {
+        width: 100%;
+    }
+
+    .newsletter-content h2 {
+        font-size: 1.5rem;
+    }
+}

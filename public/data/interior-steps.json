@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Consultation & Concept",
+        "subtitle": "STEP 01",
+        "desc": "We start with an in-depth consultation to understand your lifestyle, preferences, and functional needs. We discuss themes, budgets, and timelines to establish a clear vision for your space."
+    },
+    {
+        "id": 2,
+        "title": "Space Planning & Layout",
+        "subtitle": "STEP 02",
+        "desc": "Our designers create detailed 2D layouts to optimize space utilization. We focus on flow, functionality, and ergonomics to ensure the space is both beautiful and practical."
+    },
+    {
+        "id": 3,
+        "title": "3D Visualisation & Material Selection",
+        "subtitle": "STEP 03",
+        "desc": "We present realistic 3D renders so you can visualize the final look before work begins. We guide you in selecting premium materials, finishes, lighting, and furniture that match your style."
+    },
+    {
+        "id": 4,
+        "title": "Execution & Management",
+        "subtitle": "STEP 04",
+        "desc": "Our project managers oversee the on-site execution, coordinating with carpenters, painters, and electricians. We ensure all work is executed as per the approved designs and quality standards."
+    },
+    {
+        "id": 5,
+        "title": "Styling & Handover",
+        "subtitle": "STEP 05",
+        "desc": "The final touches are added—decor, lighting fixtures, and furnishings. We conduct a final walkthrough to ensure every detail is perfect before handing over your transformed space."
+    }
+]

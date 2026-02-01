@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Requirement Analysis",
+        "subtitle": "STEP 01",
+        "desc": "We understand the fabrication requirement, application, load conditions, drawings (if available), and site constraints. Our team evaluates technical feasibility, material specifications, and manufacturing requirements."
+    },
+    {
+        "id": 2,
+        "title": "Design & Quotation",
+        "subtitle": "STEP 02",
+        "desc": "After finalizing scope and specifications, the project is confirmed through booking. A detailed agreement is prepared covering materials, quantities, timelines, payment terms, and quality standards."
+    },
+    {
+        "id": 3,
+        "title": "Fabrication & Quality Check",
+        "subtitle": "STEP 03",
+        "desc": "Fabrication begins at our facility or on-site using high-precision tools. We strictly follow quality standards for cutting, welding, and finishing. Regular inspections ensure structural integrity and durability."
+    },
+    {
+        "id": 4,
+        "title": "Installation & Erection",
+        "subtitle": "STEP 04",
+        "desc": "Our skilled workforce handles the safe transportation and erection of purely fabricated structures. We ensure precise alignment, bolting, and on-site welding for a seamless fit."
+    },
+    {
+        "id": 5,
+        "title": "Finishing & Handover",
+        "subtitle": "STEP 05",
+        "desc": "The structure undergoes final finishing, including anti-rust coating and painting. After a final joint inspection with the client, the project is officially handed over."
+    }
+]

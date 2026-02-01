@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Technical Consultation",
+        "subtitle": "STEP 01",
+        "desc": "We understand your requirements, budget range, site conditions, and project goals. Our engineers visit the site (if required), evaluate feasibility, and suggest the best technical solutions. Initial guidance on construction method, materials, timelines, and cost estimation is provided."
+    },
+    {
+        "id": 2,
+        "title": "Booking & Agreement",
+        "subtitle": "STEP 02",
+        "desc": "Once the scope is finalized, the client confirms the project by booking our services. A detailed agreement is prepared covering project scope, timelines, payment milestones, quality standards, and legal terms. Transparency is ensured so both parties are aligned before work begins."
+    },
+    {
+        "id": 3,
+        "title": "Design & Planning",
+        "subtitle": "STEP 03",
+        "desc": "If the client already has drawings or plans, they can share them with us for technical review and execution planning. If not, our in-house team prepares complete designs and drawings based on the client’s requirements, budget, and site conditions. Final designs, materials, timelines, and execution details are approved in this stage to ensure smooth construction."
+    },
+    {
+        "id": 4,
+        "title": "Construction & Execution",
+        "subtitle": "STEP 04",
+        "desc": "Our skilled engineers, supervisors, and workforce execute the construction as per approved drawings and quality standards. Regular site updates, inspections, and progress reports are shared with the client. Safety, quality, and timelines are strictly monitored."
+    },
+    {
+        "id": 5,
+        "title": "Handover & Move-in",
+        "subtitle": "STEP 05",
+        "desc": "After completion, final inspections and quality checks are conducted. The project is handed over with all required documents, warranties, and completion reports. Any final touch-ups are completed, ensuring the client can move in with complete peace of mind."
+    }
+]

@@ -1,0 +1,109 @@
+.faq-section {
+    padding: 80px 0;
+    background-color: var(--color-gray-100);
+}
+
+.faq-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.faq-header h2 {
+    font-size: 2.5rem;
+    color: var(--color-navy-900);
+    margin-bottom: 15px;
+    font-family: var(--font-heading);
+}
+
+.faq-header p {
+    color: var(--color-gray-500);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-category-filters {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.faq-filter-btn {
+    padding: 10px 20px;
+    border: 1px solid var(--color-navy-200);
+    background: white;
+    color: var(--color-navy-900);
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.faq-filter-btn.active,
+.faq-filter-btn:hover {
+    background: var(--color-navy-900);
+    color: var(--color-gold-primary);
+    border-color: var(--color-navy-900);
+}
+
+.faq-item {
+    background: white;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.faq-question {
+    padding: 20px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--color-navy-900);
+    font-size: 1.1rem;
+}
+
+.faq-question:hover {
+    background-color: #f9f9f9;
+}
+
+.faq-icon {
+    font-size: 1.5rem;
+    color: var(--color-gold-primary);
+    transition: transform 0.3s ease;
+}
+
+.faq-item.active .faq-icon {
+    transform: rotate(180deg);
+}
+
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+    background-color: #fafafa;
+    color: var(--color-gray-500);
+    line-height: 1.6;
+}
+
+.faq-item.active .faq-answer {
+    max-height: 200px;
+    /* Adjust based on content length */
+    padding: 0 25px 25px;
+    border-top: 1px solid var(--color-gray-100);
+}
+
+@media (max-width: 768px) {
+    .faq-header h2 {
+        font-size: 2rem;
+    }
+}

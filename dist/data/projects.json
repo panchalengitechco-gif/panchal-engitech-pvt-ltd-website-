@@ -1,0 +1,135 @@
+[
+    {
+        "id": 3,
+        "title": "Commercial Complex",
+        "sector": "Civil Construction",
+        "location": "Vesu, Surat",
+        "img": "/assets/service-construction.png",
+        "size": "landscape",
+        "rotation": -1.5,
+        "borderStyle": "thick",
+        "description": "A 5-story commercial complex featuring modern architecture and high-quality Civil finish."
+    },
+    {
+        "id": 7,
+        "title": "Office Building Extension",
+        "sector": "Civil Construction",
+        "location": "Surat, Gujarat",
+        "img": "/assets/service-construction.png",
+        "size": "square",
+        "rotation": 1.2,
+        "borderStyle": "thin",
+        "description": "Structural expansion and civil works for an existing corporate headquarters."
+    },
+    {
+        "id": 13,
+        "title": "Industrial Foundation Work",
+        "sector": "Civil Construction",
+        "location": "Hazira, Surat",
+        "img": "/assets/service-industrial.png",
+        "size": "portrait",
+        "rotation": -0.8,
+        "borderStyle": "medium",
+        "description": "Heavy RCC foundation work for industrial machinery and warehouse structures."
+    },
+    {
+        "id": 1,
+        "title": "Textile Factory Shed",
+        "sector": "Fabrication Projects",
+        "location": "Surat, Gujarat",
+        "img": "/assets/fab-peb.png",
+        "size": "landscape",
+        "rotation": 2.1,
+        "borderStyle": "medium",
+        "description": "A massive 50,000 sq.ft. PEB structure designed for high-efficiency textile manufacturing."
+    },
+    {
+        "id": 5,
+        "title": "Storage Warehouse",
+        "sector": "Fabrication Projects",
+        "location": "Sachin GIDC",
+        "img": "/assets/fab-peb.png",
+        "size": "square",
+        "rotation": -2,
+        "borderStyle": "thick",
+        "description": "Heavy-duty steel warehouse with integrated logistics support structures."
+    },
+    {
+        "name": "9",
+        "id": 9,
+        "title": "Chemical Plant Walkway",
+        "sector": "Fabrication Projects",
+        "location": "Dahej, Gujarat",
+        "img": "/assets/fab-heavy.png",
+        "size": "portrait",
+        "rotation": 1.5,
+        "borderStyle": "thin",
+        "description": "Custom-fabricated heavy steel walkways for industrial safety and access."
+    },
+    {
+        "id": 10,
+        "title": "Pipeline Support System",
+        "sector": "Fabrication Projects",
+        "location": "Ankleshwar",
+        "img": "/assets/fab-heavy.png",
+        "size": "landscape",
+        "rotation": -1.2,
+        "borderStyle": "medium",
+        "description": "Precision engineering and fabrication of heavy-duty pipeline support structures."
+    },
+    {
+        "id": 2,
+        "title": "Luxury Penthouse",
+        "sector": "Interior Contracting",
+        "location": "Adajan, Surat",
+        "img": "/assets/service-residential.png",
+        "size": "square",
+        "rotation": 1.8,
+        "borderStyle": "thick",
+        "description": "High-end residential interior featuring custom furniture and premium finishes."
+    },
+    {
+        "id": 4,
+        "title": "Modern Startup Office",
+        "sector": "Interior Contracting",
+        "location": "Surat, Gujarat",
+        "img": "/assets/service-commercial.png",
+        "size": "landscape",
+        "rotation": -2,
+        "borderStyle": "thin",
+        "description": "Vibrant and functional workspace design for a growing tech startup."
+    },
+    {
+        "id": 6,
+        "title": "Modular Kitchen Project",
+        "sector": "Interior Contracting",
+        "location": "Piplod, Surat",
+        "img": "/assets/service-residential.png",
+        "size": "portrait",
+        "rotation": 1,
+        "borderStyle": "medium",
+        "description": "Premium modular kitchen installation with smart storage solutions."
+    },
+    {
+        "id": 8,
+        "title": "Boutique Store Interior",
+        "sector": "Interior Contracting",
+        "location": "Vesu, Surat",
+        "img": "/assets/service-consultancy.png",
+        "size": "square",
+        "rotation": -1.5,
+        "borderStyle": "thick",
+        "description": "Luxury retail space design focusing on customer experience and lighting."
+    },
+    {
+        "id": 11,
+        "title": "Executive Cabin Design",
+        "sector": "Interior Contracting",
+        "location": "Surat, Gujarat",
+        "img": "/assets/service-industrial.png",
+        "size": "landscape",
+        "rotation": 0.5,
+        "borderStyle": "medium",
+        "description": "Sleek, professional executive office with bespoke cabinetry and soundproofing."
+    }
+]

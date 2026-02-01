@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Home & Civil Construction",
+        "desc": "Complete home construction, industrial RCC work, and site development with precision and quality.",
+        "img": "/assets/architecture pics.jpeg",
+        "link": "/construction-process"
+    },
+    {
+        "id": 2,
+        "title": "Fabrication Services",
+        "desc": "High-quality structural steel fitting, MS fabrication, industrial sheds, and custom metal works.",
+        "img": "/assets/fab-heavy.png",
+        "link": "/fabrication"
+    },
+    {
+        "id": 3,
+        "title": "Interior Design",
+        "desc": "Comprehensive consultancy, space planning, and styling services tailored to your lifestyle.",
+        "img": "/assets/interior-design.jpg",
+        "link": "/interior-design"
+    }
+]

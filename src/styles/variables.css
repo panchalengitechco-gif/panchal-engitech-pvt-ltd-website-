@@ -1,0 +1,39 @@
+:root {
+  /* Brand Colors */
+  --color-gold-primary: #C5A059;
+  --color-gold-light: #E6C786;
+  --color-gold-dark: #9D7B38;
+
+  --color-navy-900: #020C1B;
+  --color-navy-800: #0A192F;
+  --color-navy-700: #112240;
+  --color-navy-100: #E6F1FF;
+
+  --color-orange: #FF6B00;
+  --color-orange-hover: #E65100;
+
+  --color-white: #FFFFFF;
+  --color-gray-100: #F3F4F6;
+  --color-gray-300: #D1D5DB;
+  --color-gray-500: #6B7280;
+  --color-gray-900: #111827;
+
+  /* Typography */
+  --font-sans: 'Inter', sans-serif;
+  --font-heading: 'Poppins', sans-serif;
+
+  /* Layout */
+  --container-width: 1200px;
+  --header-height: 90px;
+  --border-radius: 4px;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+}
+
+body {
+  background-color: var(--color-white);
+  color: var(--color-navy-900);
+  font-family: var(--font-sans);
+}

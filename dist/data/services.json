@@ -1,0 +1,45 @@
+[
+    {
+        "id": "construction",
+        "title": "Civil & Industrial Construction",
+        "borderColor": "var(--color-orange)",
+        "description": "We provide comprehensive civil and home construction services. From industrial structures to residential dream homes, our team specializes in RCC work, site development, and precision construction.",
+        "bullets": [
+            "Industrial Factory Sheds (RCC & PEB)",
+            "Home & Residential Building Construction",
+            "Commercial Projects & Office Spaces",
+            "Machine Foundations & Road Work"
+        ],
+        "img": "/assets/architecture pics.jpeg",
+        "link": "/construction-process"
+    },
+    {
+        "id": "fabrication",
+        "title": "Fabrication Products & Services",
+        "borderColor": "var(--color-gold-primary)",
+        "description": "We are known for our precision and quality in structural fabrication. From heavy steel structures to custom architectural metalwork, our skilled technicians deliver high-quality solutions for all industrial needs.",
+        "bullets": [
+            "Structural Steel Fabrication: Industrial plants and commercial platforms.",
+            "PEB (Pre-Engineered Buildings): Warehouses, factories, and sheds.",
+            "Heavy Industrial Fabrication: Tanks, vessels, and machine parts.",
+            "General MS Fabrication: Support structures, gates, and railings.",
+            "Industrial Roofing: Durable shed construction and cladding."
+        ],
+        "img": "/assets/fab-heavy.png",
+        "link": "/fabrication"
+    },
+    {
+        "id": "interior-design",
+        "title": "Interior Design Consultancy",
+        "borderColor": "var(--color-navy-700)",
+        "description": "Our expert consultancy services bridge the gap between imagination and reality. We work closely with you to curate personalized design strategies that reflect your unique taste and functional needs.",
+        "bullets": [
+            "Bespoke Mood Boards: Visualizing color palettes, textures, and themes.",
+            "3D Design Rendering: High-definition 3D models of your future space.",
+            "Material & Decor Selection: Hand-picking premium finishes and furniture.",
+            "Strategic Space Planning: Maximizing utility and flow in every room."
+        ],
+        "img": "/assets/Instagram.jpeg",
+        "link": "/interior-design"
+    }
+]
