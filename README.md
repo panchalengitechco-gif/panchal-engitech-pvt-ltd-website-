@@ -41,3 +41,4 @@ Edit these files to change the "How It Works" timelines:
 ## 🎨 Advanced Styling
 - **Colors**: Edit [**variables.css**](src/styles/variables.css) to change the Navy, Gold, or Gray color scheme.
 - **Contact Info**: Update phone numbers and email in [**Contact.jsx**](src/pages/Contact.jsx).
+# new-panchal
